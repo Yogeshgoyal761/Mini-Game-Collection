@@ -1,13 +1,5 @@
-# Mini-Game-Collection
-Mini Game Collection using JAVA
-
 # 📜 Mini Game Collection - README
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-</div>
+Mini Game Collection using JAVA
 
 <h2>🎮 Project Overview</h2>
 <p>
